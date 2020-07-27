@@ -11,7 +11,7 @@ export class WindowUtils {
      * Interval in milliseconds that we poll a window
      * @ignore
      */
-    private static POLLING_INTERVAL_MS = 50;
+    private static POLLING_INTERVAL_MS = 5;
 
     /**
      * @hidden
